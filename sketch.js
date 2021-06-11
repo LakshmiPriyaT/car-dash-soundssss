@@ -21,14 +21,14 @@ var s;
 
 
 function preload(){
-  track = loadImage("../images/track.jpg");
-  car1_img = loadImage("../images/car1.png");
-  car2_img = loadImage("../images/car2.png");
-  car3_img = loadImage("../images/car3.png");
-  car4_img = loadImage("../images/car4.png");
-  ground = loadImage("../images/ground.png");
-  f1 = loadImage("../images/f1.png");
-  s = loadSound("../sound/sliding.mp3");
+  track = loadImage("images/track.jpg");
+  car1_img = loadImage("images/car1.png");
+  car2_img = loadImage("images/car2.png");
+  car3_img = loadImage("images/car3.png");
+  car4_img = loadImage("images/car4.png");
+  ground = loadImage("images/ground.png");
+  f1 = loadImage("images/f1.png");
+  s = loadSound("sound/sliding.mp3");
 }
 
 function setup(){
